@@ -3,5 +3,5 @@ A Go module containing handy methods I often use.
 
 ## Installation
 ```console
-go get github.com/bramtechs/goextra
+go get -u github.com/bramtechs/goextra
 ```
